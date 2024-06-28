@@ -1,7 +1,5 @@
-> Healthy Developer is a safe space for us as a geeks where we can express our issues without fear of public shaming 💙💙
-
+>We are a community dedicated to curating resources aimed at supporting programmers worldwide in their mental health journey. You can help us by contributing resources you find valuable and relevant. Together, we strive to build a comprehensive support network for our community.
 Our greatest asset isn't the code we write ,👨‍💻 . It's us. Our health, our minds🧠
-
 We Are Here To Raise Mental Health Awareness On Tech Industry
 
 ![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen)
@@ -34,7 +32,7 @@ We Are Here To Raise Mental Health Awareness On Tech Industry
 
 # 🌍 General
 
-_In this area, I’m putting general links and resources, divided by area - you don’t need to be a developer or a OSS maintainer to use them 🤗 if you have any suggestions for items to add to these lists, please open an issue or submit a PR._
+_In this area, we are putting general links and resources, divided by area - you don’t need to be a developer or a OSS maintainer to use them 🤗 if you have any suggestions for items to add to these lists, please open an issue or submit a PR._
 
 ## 📩 Newsletters
 - [Healthy Developer](http://healthydeveloper.substack.com/)
@@ -48,17 +46,16 @@ _In this area, I’m putting general links and resources, divided by area - you 
 
 ## 🎙 Podcasts
 
-- [HealthyGamerGG](https://open.spotify.com/show/6VaJwyS2KXxiXqR77jqzmP)
 - [I Weigh](https://www.earwolf.com/show/i-weigh-with-jameela-jamil/)
 - [Brainfork](https://podcasts.apple.com/us/podcast/brainfork/id1436014505)
 - [Blocks w/ Neal Brennan](https://podcasts.apple.com/us/podcast/blocks-w-neal-brennan/id1658660161)
 - 🇮🇹 [LeBasi](https://www.ilpost.it/podcasts/le-basi/)
 - 🇮🇹 [No Pasa Nada](https://nopasanadapodcast.com/podcast/)
-- 🇮🇹 [Sigmund](https://www.ilpost.it/podcasts/sigmund/) - *suggested by @davidgerva*
+- 🇮🇹 [Sigmund](https://www.ilpost.it/podcasts/sigmund/) 
 
 ## 📚 Courses
 
-- [Dr. K's Guide to Mental Health](https://coaching.healthygamer.gg/guide)
+- [DISCOVERING PERSONALITY WITH DR. JORDAN B. PETERSON](https://courses.jordanbpeterson.com/personality)
 - [Matthew Walker Teaches the Science of Better Sleep](https://www.masterclass.com/classes/matthew-walker-teaches-the-science-of-better-sleep)
 
 ## ⚙️ Webapps
@@ -69,7 +66,7 @@ _In this area, I’m putting general links and resources, divided by area - you 
 - [Emotion Wheel](https://pudding.cool/2022/12/emotion-wheel/)
   - [Activities](https://pudding.cool/2022/12/emotion-wheel/activities/)
 
-## 📲 Mobile apps
+## 📲 Mobile appssu
 
 - [Headspace](https://www.headspace.com/)
 - [Oura Ring](https://ouraring.com/) (needs the hardware)
@@ -203,7 +200,6 @@ _I’m trying to capture here a series of resources that helped me learn more ab
 
 ## 🗳️ Other collections
 
-> ideally at some point I’d like to integrate these lists better into the rest of the page, but it’s a lot of work 😅
 
 - Articles: https://github.com/benstew/awesome-mental-health
 - Articles, Books, Talks: https://github.com/megan201296/awesome-mental-health
